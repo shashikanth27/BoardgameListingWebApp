@@ -117,6 +117,10 @@
 	</build>
 
 	<distributionManagement>
+	<repository>
+            <id>shashi</id>
+            <url>http://3.21.233.145:8081/repository/shashi/</url>
+        </repository>
         <repository>
             <id>maven-releases</id>
             <url>http://3.21.233.145:8081/repository/maven-releases/</url>
