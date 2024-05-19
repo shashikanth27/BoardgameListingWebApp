@@ -118,8 +118,8 @@
 
    <distributionManagement>
 	<repository>
-            <id>shashi</id>
-            <url>http://3.21.233.145:8081/repository/shashi/</url>
+            <id>generic-repo</id>
+            <url>http://43.204.97.181:8081/repository/generic-repo/</url>
         </repository>
     </distributionManagement>
 
