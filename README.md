@@ -16,7 +16,7 @@ This web application displays lists of board games and their reviews. While anyo
 - CSS
 - JavaScript
 - Spring MVC
-- JDBC
+- JDBC 
 - H2 Database Engine (In-memory)
 - JUnit test framework
 - Spring Security
